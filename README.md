@@ -1,44 +1,42 @@
-# Hola, soy @faaquinoa
+# @faaquinoa
 
-**Desarrollo de software · Gestión de plataformas · Automatización · IA aplicada**
+### Enterprise Software · Platform Management · Applied AI
 
-Trabajo en el desarrollo y la gestión de soluciones que conectan aplicaciones, datos y procesos de negocio. Mi actividad en GitHub abarca proyectos propios, colaboraciones académicas y la administración de organizaciones con plataformas empresariales.
+I develop and manage software that connects business operations, applications, and data. My work spans enterprise platforms, system integrations, process automation, and cloud infrastructure, alongside applied AI projects.
 
-Me interesa convertir necesidades operativas en soluciones mantenibles: desde interfaces web y APIs hasta integraciones, automatización e infraestructura.
+I combine hands-on development with technical project management across multiple GitHub organizations, working with teams on systems that extend beyond a single application or repository.
 
-## Áreas de trabajo
+## Focus
 
-| Área | Enfoque |
-| --- | --- |
-| Plataformas empresariales | Aplicaciones web, PWA, servicios backend y componentes reutilizables. |
-| Integraciones y datos | APIs, procesos ETL, intercambio de información y automatización de tareas. |
-| Infraestructura | Infraestructura como código, contenedores y herramientas para entornos AWS y Azure. |
-| Inteligencia artificial | Proyectos de procesamiento de lenguaje natural y soluciones con visión y audio. |
-| Gestión técnica | Administración de repositorios y organización de proyectos que abarcan varios servicios y aplicaciones. |
+- **Enterprise platforms** — Web applications, progressive web apps, backend services, and shared components supporting business workflows.
+- **Integration & automation** — REST and SOAP integrations, ETL pipelines, and automated data exchange between systems.
+- **Cloud infrastructure** — Infrastructure as code, containerized services, and tooling for AWS and Azure environments.
+- **Applied AI** — Natural language processing, text classification, and projects combining computer vision and speech processing.
 
-## Organizaciones que administro
+## Organizations
 
-Mi trabajo incluye la administración de repositorios y proyectos en estas organizaciones:
+I administer the following GitHub organizations, with development and project responsibilities varying across their teams and platforms.
 
-[GRUPOCOBRA](https://github.com/GRUPOCOBRA) · [GIA-GC](https://github.com/GIA-GC) · [SGSO-GC](https://github.com/SGSO-GC) · [SIGO-GC](https://github.com/SIGO-GC) · [CobraPeru-Evolutecc](https://github.com/CobraPeru-Evolutecc) · [PixelCholos](https://github.com/PixelCholos)
+[GRUPOCOBRA](https://github.com/GRUPOCOBRA) &nbsp; / &nbsp; [GIA-GC](https://github.com/GIA-GC) &nbsp; / &nbsp; [SGSO-GC](https://github.com/SGSO-GC) &nbsp; / &nbsp; [SIGO-GC](https://github.com/SIGO-GC) &nbsp; / &nbsp; [CobraPeru-Evolutecc](https://github.com/CobraPeru-Evolutecc) &nbsp; / &nbsp; [PixelCholos](https://github.com/PixelCholos)
 
-En estos entornos participo en el desarrollo o la gestión técnica según el proyecto. Las soluciones son fruto del trabajo de sus respectivos equipos; administrar un repositorio no implica ser su único autor.
+## Technology across my projects
 
-## Tecnologías presentes en los proyectos que desarrollo o gestiono
+The projects I develop or manage use the following technologies:
 
-- **Web y backend:** TypeScript, JavaScript, React, Node.js, Express, Python y FastAPI.
-- **Datos e integraciones:** MongoDB, SQL Server, PostgreSQL, Redis, APIs REST y servicios SOAP.
-- **Infraestructura:** Docker, Terraform, AWS y Azure.
-- **IA y aprendizaje automático:** PyTorch, Transformers/BETO, scikit-learn y procesamiento de lenguaje natural; proyectos con YOLO y Whisper.
+| Domain | Technologies |
+| :--- | :--- |
+| Application development | TypeScript, JavaScript, React, Node.js, Express, Python, FastAPI |
+| Data & integration | MongoDB, SQL Server, PostgreSQL, Redis, REST, SOAP |
+| Cloud & infrastructure | AWS, Azure, Docker, Terraform |
+| AI & machine learning | PyTorch, scikit-learn, Transformers, BETO, YOLO, Whisper |
 
-## Aprendizaje y colaboración
+## Selected public collaboration
 
-Complemento el trabajo en plataformas empresariales con proyectos académicos de inteligencia artificial. Entre ellos, la clasificación de textos en español y su integración en aplicaciones web, con atención a la evaluación de modelos y a los límites de sus resultados.
+**[Spanish-language news classification](https://github.com/IsmaellHV/ucv-maestriaia-pln)**  
+An academic NLP application combining a FastAPI inference service with a React and TypeScript interface. The model classifies textual patterns rather than verifying factual accuracy.
 
-Un ejemplo público de colaboración es el [clasificador de noticias en español](https://github.com/IsmaellHV/ucv-maestriaia-pln), con una API FastAPI y una interfaz React + TypeScript. El modelo clasifica patrones del texto; no verifica hechos.
+My academic work complements enterprise software development with model evaluation, reproducible experiments, and the integration of machine learning into usable applications.
 
-Parte de mi actividad se desarrolla en repositorios privados. Aquí presento las áreas de trabajo y tecnologías, preservando el código, los datos y los detalles internos de las organizaciones.
+---
 
-## Contacto
-
-Puedes encontrar mi actividad pública en [GitHub](https://github.com/faaquinoa).
+Much of my professional work takes place in private repositories. This profile provides an overview of my technical scope while respecting organizational confidentiality and team contributions.
