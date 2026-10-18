@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm @faaquinoa
+# Hi, I'm Frank Aquino
 
 ### Software Development · Cloud & Infrastructure · Automation · Applied AI
 
